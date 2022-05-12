@@ -1,0 +1,352 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Maminha"
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Salame"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 4,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 4,
+        "tipo": "Pepino"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "nome": "Matheus Battisti",
+      "carne": "Picanha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cebola roxa"
+      ],
+      "status": "Finalizado",
+      "id": 1
+    },
+    {
+      "nome": "João Coelho",
+      "carne": "Maminha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Salame",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado",
+      "id": 4
+    },
+    {
+      "nome": "Anthony Daniel Dias Barbosa",
+      "carne": "3 Queijos",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cheddar"
+      ],
+      "status": "solicitado",
+      "id": 5
+    },
+    {
+      "nome": "Anthony Daniel Dias Barbosa",
+      "carne": "3 Queijos",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cheddar"
+      ],
+      "status": "solicitado",
+      "id": 6
+    },
+    {
+      "nome": "Anthony Daniel Dias Barbosa",
+      "carne": "3 Queijos",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cheddar"
+      ],
+      "status": "solicitado",
+      "id": 7
+    },
+    {
+      "nome": "Anthony Daniel Dias Barbosa",
+      "carne": "3 Queijos",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cheddar"
+      ],
+      "status": "solicitado",
+      "id": 8
+    },
+    {
+      "nome": "Anthony Daniel Dias Barbosa",
+      "carne": "3 Queijos",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cheddar"
+      ],
+      "status": "solicitado",
+      "id": 9
+    },
+    {
+      "nome": "Anthony Daniel Dias Barbosa",
+      "carne": "3 Queijos",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cheddar"
+      ],
+      "status": "solicitado",
+      "id": 10
+    },
+    {
+      "nome": "Anthony Daniel Dias Barbosa",
+      "carne": "3 Queijos",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cheddar"
+      ],
+      "status": "solicitado",
+      "id": 11
+    },
+    {
+      "nome": "Anthony Daniel Dias Barbosa",
+      "carne": "3 Queijos",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cheddar"
+      ],
+      "status": "solicitado",
+      "id": 12
+    },
+    {
+      "nome": "Anthony Daniel Dias Barbosa",
+      "carne": "3 Queijos",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cheddar"
+      ],
+      "status": "solicitado",
+      "id": 13
+    },
+    {
+      "nome": "Anthony Daniel Dias Barbosa",
+      "carne": "3 Queijos",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cheddar"
+      ],
+      "status": "solicitado",
+      "id": 14
+    },
+    {
+      "nome": "Anthony Daniel Dias Barbosa",
+      "carne": "3 Queijos",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cheddar"
+      ],
+      "status": "solicitado",
+      "id": 15
+    },
+    {
+      "nome": "aaa",
+      "carne": "Integral",
+      "pao": "Integral",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "solicitado",
+      "id": 16
+    },
+    {
+      "nome": "aaa",
+      "carne": "Integral",
+      "pao": "Integral",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "solicitado",
+      "id": 17
+    },
+    {
+      "nome": "aaa",
+      "carne": "Integral",
+      "pao": "Integral",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "solicitado",
+      "id": 18
+    },
+    {
+      "nome": "aaa",
+      "carne": "Integral",
+      "pao": "Integral",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "solicitado",
+      "id": 19
+    },
+    {
+      "nome": "aaa",
+      "carne": "Integral",
+      "pao": "Integral",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "solicitado",
+      "id": 20
+    },
+    {
+      "nome": "aaa",
+      "carne": "Integral",
+      "pao": "Integral",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "solicitado",
+      "id": 21
+    },
+    {
+      "nome": "aaa",
+      "carne": "Integral",
+      "pao": "Integral",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "solicitado",
+      "id": 22
+    },
+    {
+      "nome": "Anthony Daniel Dias Barbosa",
+      "carne": "Parmesão e Orégano",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Cheddar"
+      ],
+      "status": "solicitado",
+      "id": 23
+    },
+    {
+      "nome": null,
+      "carne": null,
+      "pao": null,
+      "opcionais": [],
+      "status": "solicitado",
+      "id": 24
+    },
+    {
+      "nome": null,
+      "carne": null,
+      "pao": null,
+      "opcionais": [],
+      "status": "solicitado",
+      "id": 25
+    },
+    {
+      "nome": "Anthony",
+      "carne": "Parmesão e Orégano",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "solicitado",
+      "id": 26
+    },
+    {
+      "nome": "Anthony",
+      "carne": "Integral",
+      "pao": "Integral",
+      "opcionais": [
+        "Cheddar"
+      ],
+      "status": "solicitado",
+      "id": 27
+    },
+    {
+      "nome": "Thony",
+      "carne": "3 Queijos",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "solicitado",
+      "id": 28
+    },
+    {
+      "nome": "Anthony",
+      "carne": "Parmesão e Orégano",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Salame"
+      ],
+      "status": "solicitado",
+      "id": 29
+    }
+  ]
+}
