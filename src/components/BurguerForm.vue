@@ -100,10 +100,14 @@ export default {
 
         const res = await req.json();
 
+        //msg do sistema
         this.msg = `Order N°${res.id} made`
 
+        //tempo da msg
         setTimeout(()=> this.msg = "", 3000)
 
+
+        //limpar os campos
         this.nome ="";
         this.carne ="";
         this.pao = "";
